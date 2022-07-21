@@ -123,7 +123,7 @@
 
 .banner {
     height: 59%;
-    background: url(../images/banner.jpg);
+    background: url(images/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
